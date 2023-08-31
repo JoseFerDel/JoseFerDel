@@ -1,7 +1,10 @@
 # **Zet**
-Soy usuario de Debian desde hace años, también utilizo Windows claro, para instalar videojuegos y porque no me queda otra. Pero para cosas series prefiero tener control sobre lo que ocurre en mi equipo y que programas utilizan la memoria de la que soy propietario, manías mias, llamame tikis mikis. He trabajado durante más de 10 años cmo operador de redes aunque en mi tiempo libre prefiero dedicarme al desarroyo o jugar con pequeños proyectos en mis Raspberry Pi.
+Saludos, mi nombre es Jose en general aunque en la red soy Zet. 
+Soy usuario de Debian desde hace años, también utilizo Windows claro, para instalar videojuegos, pero para el resto de actividades prefiero tener control sobre mi sistema operativo y decidir si quiero que un programa esté instalado o no.
 
-En mis repositiorios se podrána encontrar mis proyectos personales así como guias sobre diferentes tecnologías.
+He trabajado durante más de 10 años como operador de redes aunque en mi tiempo libre prefiero dedicarme al desarrollo o jugar con pequeños proyectos en mis Raspberry Pi.
+
+En mis repositorios se  encontrar mis proyectos personales así como guías sobre diferentes tecnologías, servíos de lo que consideres útil.
 
 
 <p align="center">
