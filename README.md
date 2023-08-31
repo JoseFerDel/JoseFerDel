@@ -2,5 +2,7 @@
 
 Página principal de mi GitHub.
 
-<img align="center" width="120" height="120" src="Monje.jpg">
+<p align="center">
+  <img width="460" height="300" src="Monje.jpg">
+</p>
 
