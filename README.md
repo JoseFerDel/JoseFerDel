@@ -2,4 +2,5 @@
 
 Página principal de mi GitHub.
 
-![Monje](Monje.jpg "Monje LPIC")
+<img align="center" width="120" height="120" src="Monje.jpg">
+
