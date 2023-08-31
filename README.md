@@ -4,7 +4,7 @@ Soy usuario de Debian desde hace años, también utilizo Windows claro, para ins
 
 He trabajado durante más de 10 años como operador de redes aunque en mi tiempo libre prefiero dedicarme al desarrollo o jugar con pequeños proyectos en mis Raspberry Pi.
 
-En mis repositorios se  encontrar mis proyectos personales así como guías sobre diferentes tecnologías, servíos de lo que consideres útil.
+En mis repositorios se  encontrarán mis proyectos personales así como guías sobre diferentes tecnologías, servíos de lo que consideres útil.
 
 
 <p align="center">
