@@ -1,6 +1,6 @@
 # **Zet**
 Saludos, mi nombre es Jose.    
-Soy usuario de Debian desde hace años, también utilizo Windows claro, para instalar videojuegos, pero siempre que sea posible prefiero tener control sobre mi sistema operativo, decidir si quiero que un programa esté instalado o no y en general ser el dueño de mi memoria, llamadme tikis mikis si quieres XD.
+Soy usuario de Debian desde hace años, también utilizo Windows claro, para instalar juegos, que remedio.
 
 He trabajado durante más de 10 años como operador de redes aunque en mi tiempo libre prefiero dedicarme al desarrollo o jugar con pequeños proyectos en mis **Raspberry Pi**.
 
