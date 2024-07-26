@@ -1,6 +1,6 @@
 # **Zet**
 Saludos, mi nombre es Jose.    
-Soy usuario de Debian desde hace años, también utilizo Windows claro, para instalar juegos, que remedio.
+Soy usuario de Debian desde hace unos años, certificado en LPIC1 y buscador de conocimientos.
 
 He trabajado durante más de 10 años como operador de redes aunque en mi tiempo libre prefiero dedicarme al desarrollo o jugar con pequeños proyectos en mis **Raspberry Pi**.
 
